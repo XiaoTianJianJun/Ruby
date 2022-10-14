@@ -11,4 +11,6 @@ A simple unity project for beginners
 
 * Press **X** to communicate with NPC
 
+* W,A,S,D or direction key to control rbuy move
+
 ![show](show.png)
