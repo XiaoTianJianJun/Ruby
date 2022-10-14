@@ -7,4 +7,8 @@ A simple unity project for beginners
 
   Please download whole project and run **New Unity Project.exe**
 
+* Press **C** to fire the bullet
+
+* Press **X** to communicate with NPC
+
 ![show](show.png)
