@@ -7,4 +7,4 @@ A simple unity project for beginners
 
   Please download whole project and run **New Unity Project.exe**
 
-![show](C:\Users\89730\Documents\GitHub\Ruby\show.png)
+![show](show.png)
